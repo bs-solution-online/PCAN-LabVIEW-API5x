@@ -17,3 +17,6 @@ https://www.peak-system.com/products/software/development-packages/pcan-basic/?_
 
 LabVIEW® is a trademark of National Instruments
 PCAN©		is a registered Trademark of PEAK-System Germany
+
+#WIKI
+https://github.com/bs-solution-online/PCAN-LabVIEW-API5x/wiki
