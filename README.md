@@ -8,8 +8,11 @@ Support of LabVIEW 2020 or higher 32 / 64 Bit.
 
 ## Key features:
 -CAN CC
+
 -CAN FD
+
 -CAN XL 
+
 CAN frames compatible to NI-XNET CAN frames. 
 
 The API is designed for the free PCAN-Basic AP for Connecting to CAN CC, CAN FD and CAN XL Buses.
